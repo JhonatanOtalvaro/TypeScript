@@ -8,3 +8,5 @@
         - Argumentos opcionales
     -----------------------------
     - Parámetros por defecto
+    -----------------------------
+    - Parámetros REST === ...nombreDelResto
