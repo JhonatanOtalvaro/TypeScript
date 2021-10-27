@@ -10,3 +10,5 @@
     - Parámetros por defecto
     -----------------------------
     - Parámetros REST === ...nombreDelResto
+    ---------------------------------------
+    - Tipo función
